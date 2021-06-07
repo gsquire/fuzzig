@@ -1,0 +1,9 @@
+[package]
+name = "fuzzig"
+version = "0.1.0"
+authors = ["Garrett Squire <github@garrettsquire.com>"]
+edition = "2018"
+
+[dependencies]
+afl = "0.10"
+libc = "0.2"
